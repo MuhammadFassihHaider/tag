@@ -1,6 +1,3 @@
-/*
-Copyright © 2024 Fassih Haider <fassih.haider786@gmail.com>
-*/
 package cmd
 
 import (
